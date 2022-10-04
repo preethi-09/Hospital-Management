@@ -46,7 +46,7 @@
             </div>
           </div>
          
-            <h5 style="color:red; text-align: center;"> Today's Appointments</h5>
+            
           <div class="row">
             <div class="col-md-12">
               <div class="card">
